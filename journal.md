@@ -24,3 +24,6 @@ We made some discovery aren't we great, give us more funding.
 
 # Figures
 This is where the figures go in a draft manuscript.
+
+# Aknowledgements
+We would like to thank the funding body for their support.
