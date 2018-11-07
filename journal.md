@@ -3,8 +3,8 @@ Model measurement comparison of Biomass burning aerosol over w. Africa
 
 
 #Author
-John Smith
-Jane Shortall
+John Smith, The University of Elsewhere
+Jane Shortall, The University of Manchester
 
 # Abstract
 We write this last because it's difficult to do. This is wehre we summarize our main results so lazy people don't have to read the whole thing. 
