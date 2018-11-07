@@ -15,3 +15,6 @@ John has made some simulations of particle formation using his box model. It rep
 
 # Methodology
 We used AMS (Allan et al 1999) to measure particle mass and chemical composition.
+
+# Conclusions 
+We made some discovery aren't we great, give us more funding.
