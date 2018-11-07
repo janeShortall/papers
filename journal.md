@@ -1,5 +1,5 @@
 # Title
-Biomass burning aerosol over w. Africa
+Aircraft measurements of Biomass burning aerosol over w. Africa
 
 #Author
 Jane Shortall
