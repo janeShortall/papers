@@ -1,8 +1,9 @@
 # Title
-Biomass burning aerosol over w. Africa
+Simulations of Biomass burning aerosol over w. Africa
 
 #Author
 Jane Shortall
+John Smith
 
 # Introduction
 Haywood et al (1999) made some great measurements of BBOA over the Sahara.
