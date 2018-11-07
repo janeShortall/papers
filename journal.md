@@ -1,3 +1,4 @@
+
 # Title
 Model measurement comparison of Biomass burning aerosol over w. Africa
 
@@ -5,6 +6,12 @@ Model measurement comparison of Biomass burning aerosol over w. Africa
 #Author
 Jane Shortall
 John Smith
+
+# Abstract
+We write this last because it's difficult to do. This is wehre we summarize our main results so lazy people don't have to read the whole thing. 
+
+
+
 
 # Introduction
 Haywood et al (1999) made some great measurements of BBOA over the Sahara.
